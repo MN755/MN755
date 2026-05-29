@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<!-- Optional typing banner -->
+<!-- typing banner -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=900&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+MN755;Builder+of+partially+usable+software;AI+agent+orchestration+wizard;OSINT%2C+aviation%2C+automation%2C+and+chaos" alt="Typing SVG" />
 
 <br/>
@@ -30,7 +30,7 @@ I’m into **AI agents**, **automation**, **developer tools**, **OSINT**, **avia
 ### AI + Agent Systems
 - Multi-agent Workflows  
 - AI Swarm Orchestration  
-- AI Automation With NVIDIA
+- NVIDIA-powered AI Workflows
 - CLI-first Developer Tools  
 - Debug Tracking systems  
 
@@ -40,7 +40,7 @@ I’m into **AI agents**, **automation**, **developer tools**, **OSINT**, **avia
 
 ### Projects + Experiments
 - GitHub tooling  
-- 4D Systems and Maps  
+- Geospatial Systems and Maps  
 - Aviation/ATC Workflows  
 - Automation Workflows  
 - Large Infrastructure Concepts  
@@ -74,15 +74,15 @@ I’m into **AI agents**, **automation**, **developer tools**, **OSINT**, **avia
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,java,bash,powershell,cpp,react" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,java,bash,powershell,cpp" />
 
 ### Frameworks / Tools
 
-<img src="https://skillicons.dev/icons?i=replit,nextjs,nodejs,fastapi,vite,tailwind,sqlite,git,github,vscode,tensorflow" />
+<img src="https://skillicons.dev/icons?i=replit,nextjs,nodejs,fastapi,vite,tailwind,sqlite,git,github,vscode,tensorflow,react" />
 
 ### Platforms / Other
 
-<img src="https://skillicons.dev/icons?i=windows,linux,docker,cloudflare,figma,md,apple,azure,cloudflare,electron,github,notion,raspberrypi,vercel" />
+<img src="https://skillicons.dev/icons?i=windows,linux,docker,figma,md,apple,azure,cloudflare,electron,notion,raspberrypi,vercel" />
 
 </div>
 
